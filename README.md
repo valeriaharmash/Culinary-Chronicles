@@ -1,6 +1,12 @@
+![logo](https://user-images.githubusercontent.com/44912347/202244850-18dbf275-11cf-44b5-9500-b2fcb5d44d05.jpg)
+
 # Culinary Chronicles 👨‍🍳
 
-**GOAL**: Create a webpage that showcases you and your partners favorite cuisines, dishes, and recipes. You will create an `index.html` file that contains:
+**GOAL**: Create a webpage that showcases you and your partners favorite cuisines, dishes, and recipes. 
+
+![Final Website](./Final.png)
+
+Create an `index.html` file that contains:
 - A list of your favorite cuisines and pictures
 - A list of your favorite dishes with pictures
 - A list of recipes with links to sites that provide the recipe
@@ -28,3 +34,4 @@ Additionally, you will style this page to ensure that it entices users to read a
 - Give your images a border
 - Give your page a background image
 - Create a navigation bar at the top of your page. Style this navigation bar using CSS.
+- Check out pseudo-elements like `::before` and `::after` to try to animate your links.
